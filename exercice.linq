@@ -14,7 +14,7 @@ class Entreprise
 
 	public void AjouterEmployé(int[] Employé)
 	{
-		Employé = new int();
+		Employé = new inta();
 	}
 
 	public void AfficherEmployé()
