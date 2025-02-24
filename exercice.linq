@@ -60,8 +60,7 @@ class Employé{
 	
 	
 	public void AfficherInfos()
-	{
-		("Entreprise : High-Tech").Dump();
+	{	
 		("ID : "+ Id).Dump();
 		("Nom : "+ Nom).Dump();
 		("Prenom : "+ Prenom).Dump();
